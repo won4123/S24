@@ -1,7 +1,7 @@
 # 🎧 S24
 
-## Digital Literacy and English Education, 2024 Spring
-Gyeongsang National University, Engish Education
+## Digital Literacy and English Education, 2024 Spring 
+### Gyeongsang National University, Engish Education
 
 This is fun.
 
